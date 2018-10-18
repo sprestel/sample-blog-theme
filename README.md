@@ -10,4 +10,6 @@ https://help.podigee.com/article/160-importing-themes-from-git-repos
 
 ---
 
-Podigee is a podcast hosting software as a service. We help podcasters big and small getting their content out to their listeners as easy as possible. Find out more about us here: https://www.podigee.com/en/
+## About us
+
+**Podigee** is a podcast hosting software as a service. We help podcasters big and small getting their content out to their listeners as easy as possible. Find out more about us here: https://www.podigee.com/en/
