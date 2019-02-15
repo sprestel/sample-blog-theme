@@ -36,5 +36,7 @@
     {% endif %}
   </section>
 
-  {% include 'comments.html' %}
+  {% if blog.show_comments %}
+    {% include 'comments.html' %}
+  {% endif %}
 </article>
